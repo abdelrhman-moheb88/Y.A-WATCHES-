@@ -1,0 +1,137 @@
+{
+  "products": [
+    {
+      "id": "prod-1",
+      "name": "Royal Chronograph Black Edition",
+      "price": 2850,
+      "description": "ساعة كرونوغراف ملكية استثنائية بإصدار أسود مطفي فاخر مع حزام من الجلد الطبيعي الفاخر. مجهزة بعدادات كرونوغراف دقيقة ومقاومة عالية للخدش لتلائم إطلالتك الرسمية واليومية.",
+      "specifications": {
+        "نوع الحركة": "كرونوغراف ياباني عالي الدقة",
+        "مادة العلبة": "ستانلس ستيل 316L فائق الصلابة",
+        "قطر العلبة": "43 مم",
+        "سماكة العلبة": "11.5 مم",
+        "الزجاج": "كريستال سافير مقاوم للخدوش مع طبقة مضادة للانعكاس",
+        "مقاومة الماء": "50 متر / 5 بار",
+        "الحزام": "جلد عجل طبيعي أسود منقوش بملمس التمساح",
+        "الوزن": "88 جرام"
+      },
+      "mainImage": "/src/assets/images/watch_chronograph_black_1790699695311.jpg",
+      "images": [
+        "/src/assets/images/watch_chronograph_black_1790699695311.jpg",
+        "/src/assets/images/hero_luxury_watch_1790699684150.jpg",
+        "/src/assets/images/watch_skeleton_onyx_1790699715932.jpg"
+      ],
+      "stockQuantity": 10,
+      "available": true,
+      "createdAt": "2026-10-04T15:54:48.573Z",
+      "updatedAt": "2026-10-04T15:54:48.573Z"
+    },
+    {
+      "id": "prod-2",
+      "name": "Grand Classic Rose Gold & Sapphire",
+      "price": 3400,
+      "description": "تحفة كلاسيكية راقية مطعمة ببريق الذهب الوردي عيار 18 مع ميناء فضي مشمس وعقارب فولاذية زرقاء أيقونية. صممت لأصحاب الذوق الرفيع والمناسبات الفاخرة.",
+      "specifications": {
+        "نوع الحركة": "ميكانيكية يدوية / أوتوماتيكية سويسرية الطراز",
+        "مادة العلبة": "فولاذ مقاوم للصدأ مطلي بذهب وردي بتقنية PVD",
+        "قطر العلبة": "40 مم",
+        "سماكة العلبة": "9.8 مم",
+        "الزجاج": "سافير مقبب فائق النقاء",
+        "مقاومة الماء": "30 متر / 3 بار",
+        "الحزام": "جلد بني طبيعي ناعم مع مشبك مطلي بالذهب الوردي"
+      },
+      "mainImage": "/src/assets/images/watch_gold_classic_1790699705206.jpg",
+      "images": [
+        "/src/assets/images/watch_gold_classic_1790699705206.jpg",
+        "/src/assets/images/hero_luxury_watch_1790699684150.jpg"
+      ],
+      "stockQuantity": 6,
+      "available": true,
+      "createdAt": "2026-10-04T15:54:48.573Z",
+      "updatedAt": "2026-10-04T15:54:48.573Z"
+    },
+    {
+      "id": "prod-3",
+      "name": "Onyx Skeleton Mechanical",
+      "price": 3950,
+      "description": "ساعة سكيليتون تكشف عن أدق تفاصيل الحركة الميكانيكية التوربيونية والتروس الذهبية الدقيقة. إطار تيتانيوم أسود خفيف الوزن مع حزام سيليكون شبكي مريح.",
+      "specifications": {
+        "نوع الحركة": "أوتوماتيكية ذاتية التعبئة (احتياطي طاقة 48 ساعة)",
+        "مادة العلبة": "تيتانيوم أسود مصفح خفيف ومتين",
+        "قطر العلبة": "44 مم",
+        "الزجاج": "سافير أمامي وخلفي شفاف مزدوج",
+        "مقاومة الماء": "100 متر / 10 بار",
+        "الحزام": "سيليكون فحمي شبكي مقاوم للماء والتعرق"
+      },
+      "mainImage": "/src/assets/images/watch_skeleton_onyx_1790699715932.jpg",
+      "images": [
+        "/src/assets/images/watch_skeleton_onyx_1790699715932.jpg",
+        "/src/assets/images/hero_luxury_watch_1790699684150.jpg"
+      ],
+      "stockQuantity": 3,
+      "available": true,
+      "createdAt": "2026-10-04T15:54:48.573Z",
+      "updatedAt": "2026-10-04T15:54:48.573Z"
+    },
+    {
+      "id": "prod-4",
+      "name": "Nautical Master Titanium Diver",
+      "price": 4200,
+      "description": "ساعة احترافية لأعماق البحار والمغامرات مع إطار سيراميكي دوار أحادي الاتجاه ومؤشرات مضيئة بتقنية Super-LumiNova السويسرية لسهولة القراءة في الظلام.",
+      "specifications": {
+        "نوع الحركة": "أوتوماتيك مخصص للغوص مع ضبط دقيق للوقت",
+        "مادة العلبة": "تيتانيوم صلب خفيف الوزن مقاوم للملوحة",
+        "قطر العلبة": "42.5 مم",
+        "الزجاج": "كريستال سافير سميك 3.5 مم مع معالجة داخلية مضادة للوهج",
+        "مقاومة الماء": "300 متر / 30 بار مع صمام تنفيس الهيليوم",
+        "الحزام": "سوار تيتانيوم مع وصلات إضافية وقفل أمان ثلاثي"
+      },
+      "mainImage": "/src/assets/images/watch_diver_titanium_1790699726117.jpg",
+      "images": [
+        "/src/assets/images/watch_diver_titanium_1790699726117.jpg",
+        "/src/assets/images/watch_chronograph_black_1790699695311.jpg"
+      ],
+      "stockQuantity": 8,
+      "available": true,
+      "createdAt": "2026-10-04T15:54:48.573Z",
+      "updatedAt": "2026-10-04T15:54:48.573Z"
+    }
+  ],
+  "orders": [],
+  "storeSettings": {
+    "storeName": "Y²A Watches",
+    "logo": "/logo.jpg",
+    "whatsappNumber": "01141901720",
+    "currency": "EGP",
+    "heroTitle": "روائع الساعات الفاخرة التي تدوم لأجيال",
+    "heroDescription": "تشكيلة استثنائية من الساعات الميكانيكية والكلاسيكية الفاخرة، صُممت لتمنح معصمك حضوراً لا مثيل له.",
+    "heroImage": "/src/assets/images/hero_luxury_watch_1790699684150.jpg",
+    "storeDescription": "بوتيك Y²A Watches يقدم تشكيلة راقية من ساعات اليد الفاخرة، مع توصيل سريع ومجاني داخل محافظة القاهرة فقط.",
+    "contactInformation": {
+      "phone": "01141901720",
+      "whatsapp": "01141901720",
+      "location": "القاهرة، جمهورية مصر العربية",
+      "workingHours": "يومياً من 10:00 صباحاً حتى 10:00 مساءً"
+    },
+    "deliveryPolicy": "🚚 التوصيل متاح حصرياً داخل محافظة القاهرة فقط ومجاناً بالكامل (0 EGP).",
+    "returnPolicy": ""
+  },
+  "shippingSettings": [
+    {
+      "id": "ship-cairo",
+      "governorate": "القاهرة",
+      "deliveryFee": 0,
+      "active": true
+    }
+  ],
+  "admins": [
+    {
+      "id": "admin-1",
+      "email": "admin@luxurywatches.com",
+      "passwordHash": "$2b$10$oPiy75uFe/dRlFMIaUlNvughP/O9F/NXj11tjSxK0EUVonRM7DB6.",
+      "role": "admin",
+      "createdAt": "2026-10-04T15:54:48.573Z"
+    }
+  ],
+  "nextOrderNumber": 1001
+}

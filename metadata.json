@@ -1,0 +1,6 @@
+{
+  "name": "Y²A Watches",
+  "description": "متجر Y²A Watches لبيع ساعات اليد الفاخرة - توصيل مجاني داخل محافظة القاهرة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
